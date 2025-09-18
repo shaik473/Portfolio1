@@ -23,14 +23,15 @@ body{
 }
 
 header{
-    margin-top: 20px;
+    margin-top: 0px;
     position: fixed;
-    top: 0;
+    top: 30;
     left: 0;
+    bottom: 30;
     width: 100%;
     padding: 1rem 9%;
     
-    background-color: transparent;
+    background-color: black;
     filter: drop-shadow(10px);
     display: flex;
     justify-content: space-between;
